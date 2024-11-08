@@ -98,7 +98,7 @@ public class MedicsConfig  {
             //set gmail id
 	        mailSender.setUsername("mknishad21@gmail.com");
 	        //set gmail password
-	        mailSender.setPassword("@m9709649124");
+	        mailSender.setPassword("test");
 	         Properties prop=mailSender.getJavaMailProperties();
 	         prop.put("mail.smtp.host","smtp.gmail.com");
 	         //prop.put("mail.smtp.port", "465");
